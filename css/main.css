@@ -2167,8 +2167,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 19.2rem;
-  padding-bottom: 16.8rem;
+  padding-top: 5rem;
+  /* padding-bottom: 16.8rem; */
   background-color: #ffffff;
 }
 
@@ -2337,8 +2337,8 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media screen and (max-width:1200px) {
   .s-about {
-    padding-top: 17.2rem;
-    padding-bottom: 15.6rem;
+    padding-top: 5rem;
+    /* padding-bottom: 15.6rem; */
   }
 
   .about-experience__timeline .column:first-child {
@@ -2431,7 +2431,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .s-about {
-    padding-top: 16rem;
+    padding-top: 5rem;
   }
 
   .s-about .row {
@@ -2505,8 +2505,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-top: 5rem;
+  /* padding-bottom: 16rem; */
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2609,8 +2609,8 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .s-services {
-    padding-top: 16rem;
-    padding-bottom: 16rem;
+    padding-top: 5rem;
+    /* padding-bottom: 16rem; */
   }
 
   .services-list {
@@ -2731,8 +2731,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-  padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-top: 5rem;
+  /* padding-bottom: 16rem; */
   background-color: #ffffff;
 }
 
@@ -2943,7 +2943,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .s-works {
-    padding-top: 16rem;
+    padding-top: 5rem;
   }
 
   .masonry-wrap {
@@ -3273,8 +3273,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-contact {
-  padding-top: 18.4rem;
-  padding-bottom: 6.4rem;
+  padding-top: 5rem;
+  /* padding-bottom: 6.4rem; */
   background-color: #050505;
 }
 
@@ -3403,7 +3403,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:800px) {
   .s-contact {
-    padding-top: 16rem;
+    padding-top: 5rem;
   }
 
   .contact-email {
