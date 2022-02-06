@@ -1468,7 +1468,7 @@ input::-moz-focus-inner {
   letter-spacing: .5rem;
   margin-top: 0;
   padding-top: 3.2rem;
-  margin-bottom: 8rem;
+  margin-bottom: 5rem;
   position: relative;
 }
 
@@ -1564,7 +1564,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:600px) {
   .section-heading {
-    margin-bottom: 6.8rem;
+    margin-bottom: 5rem;
   }
 
   .section-desc {
@@ -2177,7 +2177,7 @@ input::-moz-focus-inner {
 }
 
 .s-about > [class*="about-"] {
-  margin-bottom: 15.2rem;
+  margin-bottom: 5rem;
 }
 
 .s-about > [class*="about-"]:last-child {
@@ -2411,7 +2411,7 @@ input::-moz-focus-inner {
   }
 
   .about-experience__timeline .column:first-child {
-    margin-bottom: 9.6rem;
+    margin-bottom: 5rem;
   }
 
   .timeline::after {
@@ -2471,7 +2471,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:400px) {
   .s-about > [class*="about-"] {
-    margin-bottom: 14rem;
+    margin-bottom: 5rem;
   }
 
   .about-me__buttons .column:first-child,
@@ -2553,7 +2553,7 @@ input::-moz-focus-inner {
 
 .services-list {
   max-width: 1240px;
-  margin-top: 8.8rem;
+  margin-top: 5rem;
   counter-reset: ctr;
   position: relative;
 }
